@@ -6,8 +6,7 @@ This project focuses on predicting customer churn for a bank using structured cu
 
 ## 📌 Dataset Source
 
-The dataset used in this project is adapted from:  
-🔗 [TechVidvan – Customer Churn Prediction](https://techvidvan.com/tutorials/wp-content/uploads/sites/2/2022/11/customer-churn-plot.png)
+The dataset used is already uploaded in the repo
 
 ---
 
